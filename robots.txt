@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tobygregg.github.io/datum-plumbing-heating/sitemap.xml

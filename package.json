@@ -1,0 +1,14 @@
+{
+  "name": "datum-plumbing-heating-website",
+  "version": "1.0.0",
+  "description": "Datum Plumbing & Heating Ltd — static website (Tailwind)",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./assets/css/styles.css --watch"
+  },
+  "license": "UNLICENSED",
+  "private": true,
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
